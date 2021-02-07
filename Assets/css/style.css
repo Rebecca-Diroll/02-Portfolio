@@ -56,7 +56,7 @@ body {
     color: var(--dark-color);
     background: var(--light-color);
 }
-/*
+
 .web-developer-image {
     position: relative;
     text-align: center;
@@ -72,7 +72,7 @@ body {
     font-weight: bold;
     color: white;
 }
-
+/*
 h3 {
     font-size: 1.3em;
     text-align: center;
