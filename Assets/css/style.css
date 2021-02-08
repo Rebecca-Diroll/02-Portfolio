@@ -81,15 +81,15 @@ h3 {
 }
 
 .about-me {
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 .about-me-photo {
     object-fit: scale-down;
     float: left;
-    width: 150px;
+    width: 125px;
     height: auto;
-    padding: 15px 15px 5px 15px;
+    padding: 20px 15px 5px 15px;
 }
 
 .about-me-info, #resume {
@@ -121,6 +121,10 @@ hr {
     font-size: 1.3em;
     font-weight: bold;
     color: white;
+}
+
+.html:hover, .css:hover, .javascript:hover, .calculate:hover {
+    filter: sepia(100%);
 }
 
 #contact-me {
