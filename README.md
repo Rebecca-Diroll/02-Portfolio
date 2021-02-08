@@ -6,7 +6,7 @@ Name
 Navigation Links
 Job Title
 About Me section with photo and text
-Work section with HTML, CSS, JavaScript, and Calculate placeholder titles, images, and hover effects.
+Work section with HTML, CSS, JavaScript, and Calculate images, titles, and hover effects with links to placeholder websites.
 Contact section with phone nubmer, email, GitHub, and LinkedIn
 Resume section
 Footer section with nav links to the main sectons of the profile.
