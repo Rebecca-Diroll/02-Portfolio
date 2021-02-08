@@ -15,3 +15,4 @@ Contact section with phone nubmer, email, GitHub, and LinkedIn
 Resume section
 Footer section with nav links to the main sectons of the profile
 Media queries and responsive design
+Debug GitHub issues
