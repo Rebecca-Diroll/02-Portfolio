@@ -8,3 +8,4 @@ Job Title
 About Me section
 Work section with HTML, CSS, JavaScript, and Calculate placeholder titles and images
 Contact section with phone nubmer, email, GitHub, and LinkedIn
+Resume section
