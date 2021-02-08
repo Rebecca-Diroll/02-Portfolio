@@ -80,9 +80,19 @@ h3 {
     margin-bottom: 0;
 }
 
+.about-me {
+    padding-bottom: 5px;
+}
+
+.about-me-photo {
+    object-fit: scale-down;
+    float: left;
+    width: 150px;
+    height: auto;
+    padding: 15px 15px 5px 15px;
+}
+
 .about-me-info, #resume {
-    font-size: 1em;
-    text-align: center;
     padding: 10px;
 }
 

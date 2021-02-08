@@ -5,7 +5,8 @@ The portfolio contains the following elements:
 Name
 Navigation Links
 Job Title
-About Me section
+About Me section with photo and text
 Work section with HTML, CSS, JavaScript, and Calculate placeholder titles and images
 Contact section with phone nubmer, email, GitHub, and LinkedIn
 Resume section
+Footer section with nav links to the main sectons of the profile.
