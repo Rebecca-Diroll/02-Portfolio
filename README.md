@@ -9,4 +9,5 @@ About Me section with photo and text
 Work section with HTML, CSS, JavaScript, and Calculate areas where each have an image, title, hover effect, and a link to placeholder websites.
 Contact section with phone nubmer, email, GitHub, and LinkedIn
 Resume section
-Footer section with nav links to the main sectons of the profile.
+Footer section with nav links to the main sectons of the profile
+Media queries and responsive design
