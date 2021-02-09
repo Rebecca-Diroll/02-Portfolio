@@ -5,7 +5,7 @@
     --light-color: #b6d6fc;
     --almost-white: #dfe8f2;
 }
-/*
+
 body,p,a,ul,li {
     margin: 0;
     padding: 0;
@@ -56,7 +56,7 @@ h1 {
     color: var(--dark-color);
     background: var(--light-color);
 }
-
+/*
 .web-developer-image {
     position: relative;
     text-align: center;
