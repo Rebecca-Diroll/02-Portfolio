@@ -102,7 +102,7 @@ hr {
     text-align: center;
     height: 2px;
 }
-/*
+
 #work {
     text-align: center;
 }
@@ -125,7 +125,7 @@ hr {
 .html:hover, .css:hover, .javascript:hover, .calculate:hover {
     filter: sepia(100%);
 }
-
+/*
 #contact-me {
     text-align: center;
 }
