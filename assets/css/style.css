@@ -160,8 +160,8 @@ hr {
     color: white;
 }
 
-/*
-// Extra small devices: phone 
+
+/* Extra small devices: phone */
 @media only screen and (max-width: 600px) {
     h1 {
         font-size: 1.7em;
@@ -183,7 +183,7 @@ hr {
     }
 }
 
-// Small devices: large phone, portrait tablet 
+/* Small devices: large phone, portrait tablet */
 @media only screen and (min-width: 600px) {
     h1 {
         font-size: 1.9em;
@@ -208,7 +208,7 @@ hr {
         font-size: 0.9em;
     }
 
-// Medium devices: landscape tablet 
+/* Medium devices: landscape tablet */
 @media only screen and (min-width: 768px) {
     h1 {
         font-size: 2.1em;
@@ -234,7 +234,7 @@ hr {
     }
 }
 
-// Large devices: laptop, desktop 
+/* Large devices: laptop, desktop */
 @media only screen and (min-width: 992px) {
     h1 {
         font-size: 2.4em;
@@ -260,7 +260,7 @@ hr {
     }
 }
 
-// Extra large devices: laptop, desktop
+/* Extra large devices: laptop, desktop */
 @media only screen and (min-width: 1200px) {
     h1 {
         font-size: 2.6em;
@@ -285,4 +285,3 @@ hr {
         font-size: 1.6em;
     }
 }
-*/
