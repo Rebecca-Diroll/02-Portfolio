@@ -6,13 +6,13 @@ This project is an online, web-based portfolio that showcases the work that I ha
 
 The portfolio contains the following elements:
 
-Name
-Navigation Links
-Job Title
-About Me section with photo and text
-Work section with HTML, CSS, JavaScript, and Calculate areas where each have an image, title, hover effect, and a link to placeholder websites.
-Contact section with phone nubmer, email, GitHub, and LinkedIn
-Resume section
-Footer section with nav links to the main sectons of the profile
-Media queries and responsive design
-Debug GitHub issues
+1. Name
+2. Navigation Links
+3. Job Title
+4. About Me section with photo and text
+5. Work section with HTML, CSS, JavaScript, and Calculate areas where each have an image, title, hover effect, and a link to placeholder websites
+6. Contact section with phone nubmer, email, GitHub, and LinkedIn
+7. Resume section
+8. Footer section with nav links to the main sectons of the profile
+9. Media queries and responsive design
+10. Debug GitHub issues
