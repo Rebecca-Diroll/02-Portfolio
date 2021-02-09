@@ -11,7 +11,7 @@ The portfolio contains the following elements:
 3. Job Title
 4. About Me section with photo and text
 5. Work section with HTML, CSS, JavaScript, and Calculate areas where each have an image, title, hover effect, and a link to placeholder websites
-6. Contact section with phone nubmer, email, GitHub, and LinkedIn
+6. Contact section with phone nubmer, email, GitHub, and LinkedIn links
 7. Resume section
 8. Footer section with nav links to the main sectons of the profile
 9. Media queries and responsive design
