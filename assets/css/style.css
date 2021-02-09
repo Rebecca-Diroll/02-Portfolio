@@ -125,7 +125,7 @@ hr {
 .html:hover, .css:hover, .javascript:hover, .calculate:hover {
     filter: sepia(100%);
 }
-/*
+
 #contact-me {
     text-align: center;
 }
@@ -133,7 +133,7 @@ hr {
 #contact-me ul li {
     line-height: 1.4;
 }
-
+/*
 .footer-links ul {
     list-style-type: none;
     margin: 0;
